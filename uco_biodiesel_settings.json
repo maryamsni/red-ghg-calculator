@@ -1,0 +1,12 @@
+{
+  "pathway": "Biodiesel (FAME) from used cooking oil (UCO)",
+  "feedstock_type": "waste",
+  "fuel_output_kg": 1000,
+  "fuel_lhv_mj_per_kg": 37,
+  "coproducts": [
+    {"name": "crude glycerine", "output_kg": 100, "lhv_mj_per_kg": 16}
+  ],
+  "fossil_comparator_g_per_mj": 94,
+  "installation_start": "2022-03-01",
+  "note": "All emission factors and process data are illustrative examples, not real plant data or official default values."
+}

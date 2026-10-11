@@ -1,0 +1,7 @@
+input,factor,unit,source
+truck,0.10,kgCO2e/tkm,ILLUSTRATIVE
+electricity,0.38,kgCO2e/kWh,ILLUSTRATIVE (grid mix)
+natural_gas,0.066,kgCO2e/MJ,ILLUSTRATIVE
+methanol,1.98,kgCO2e/kg,ILLUSTRATIVE (fossil methanol)
+potassium_hydroxide,1.93,kgCO2e/kg,ILLUSTRATIVE
+phosphoric_acid,3.0,kgCO2e/kg,ILLUSTRATIVE

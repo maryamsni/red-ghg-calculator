@@ -1,0 +1,10 @@
+step,term,input,amount,unit,before_coproduct,comment
+UCO collection,etd,truck,157.5,tkm,yes,1.05 t used cooking oil x 150 km to the plant
+Pretreatment,ep,electricity,25,kWh,yes,Filtering and drying of the UCO
+Pretreatment,ep,natural_gas,300,MJ,yes,Process heat
+Transesterification,ep,methanol,100,kg,yes,Reactant
+Transesterification,ep,electricity,40,kWh,yes,Pumps and mixing
+Transesterification,ep,natural_gas,800,MJ,yes,Steam for reaction and distillation
+Transesterification,ep,potassium_hydroxide,10,kg,yes,Catalyst
+Transesterification,ep,phosphoric_acid,2,kg,yes,Neutralisation
+Distribution,etd,truck,300,tkm,no,1 t biodiesel x 300 km to the depot (after the co-product step - not allocated)
